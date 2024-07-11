@@ -1,0 +1,1 @@
+Jogo usado para interagir com o usuário nas salas de espera da clínica. 
